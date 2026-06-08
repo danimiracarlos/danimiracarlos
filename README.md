@@ -14,11 +14,11 @@
 
 💻 Desenvolvo aplicações utilizando **React**, **Vue** e **TypeScript**
 
-🏢 Trabalho criando soluções web e buscando novas oportunidades para minha empresa
+🏢 Trabalho criando soluções web e buscando novas oportunidades
 
 📚 Sempre estudando novas tecnologias e boas práticas
 
-🎮 Gosto de tecnologia, jogos e universos cheios de lore
+🎮 Gosto de tecnologia, DIY, Hoyoverse
 
 ---
 
@@ -34,6 +34,7 @@
 ### Ferramentas
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -44,9 +45,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=<SEU_USUARIO>&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=danimiracarlos&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<SEU_USUARIO>&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danimiracarlos&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -56,7 +57,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=<SEU_USUARIO>&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=danimiracarlos&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -66,19 +67,18 @@
 
 | Projeto | Descrição |
 |----------|------------|
-| 🚀 Projeto 1 | Descreva aqui |
-| 🎨 Projeto 2 | Descreva aqui |
-| ⚡ Projeto 3 | Descreva aqui |
+| 🚀 Akivili | Acompanhe estatísticas do seu perfil de HSR com rankings e recomendações |
+| 🎨 Raspberry a carvão | Servidor movido a carvão no quintal (Não se usa carvão de verdade) |
 
 ---
 
 ## 🎮 Atualmente
 
 ```txt
-📍 Explorando novas tecnologias
+📍 Aprendendo inglês
 📖 Aprendendo coisas novas todos os dias
-🎮 Jogando quando sobra tempo
-☕ Transformando café em código
+⏳ Perdendo tempo
+☕ Transformando água em código (não curto café)
 ```
 
 ---
@@ -87,15 +87,15 @@
 
 <div align="center">
 
-<a href="<LINK_LINKEDIN>">
+<a href="https://www.linkedin.com/in/danimiracarlos/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="<LINK_PORTFOLIO>">
+<a href="https://www.command-d.com.br/">
   <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel">
 </a>
 
-<a href="mailto:<EMAIL>">
+<a href="mailto:nerd.monday057@aleeas.com.br">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail">
 </a>
 
@@ -107,6 +107,6 @@
 
 ### Obrigado pela visita 👋
 
-<img src="https://komarev.com/ghpvc/?username=<SEU_USUARIO>&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=<danimiracarlos>&style=for-the-badge" />
 
 </div>
