@@ -107,6 +107,6 @@
 
 ### Obrigado pela visita 👋
 
-<img src="https://komarev.com/ghpvc/?username=<danimiracarlos>&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=danimiracarlos&style=for-the-badge" />
 
 </div>
